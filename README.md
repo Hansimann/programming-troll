@@ -1,2 +1,2 @@
 # programming-troll
-Repository for the cs50
+Repository for the cs50x course
